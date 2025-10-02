@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1jXFTHGrjPt5p2BWfcdR5Hd554Oe5rSer/view
 
 <P> <b> 🚀 About Me </b>
   
-I'm a **Backend Software Engineer** currently working at **Ghorerbazar**. I specialize in building **scalable and efficient backend systems** using modern technologies. Passionate about **software architecture, microservices, and distributed systems**, I love solving complex problems and optimizing performance.</p>
+I'm a **Backend Software Engineer** currently working at **KuiperZ**. I specialize in building **scalable and efficient backend systems** using modern technologies. Passionate about **software architecture, microservices, and distributed systems**, I love solving complex problems and optimizing performance.</p>
 
 <b> 🛠 Tech Stack </b>
 
